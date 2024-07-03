@@ -1,0 +1,35 @@
+﻿@* @model List<KN_Web.BaseDatos.tUsuario> *@
+
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+    ViewBag.Title = "consultaVehiculos";
+}
+
+<main class="container mt-5">
+    <h2>Consulta de Vehículos Registrados</h2>
+    <h3 style="color:red">@ViewBag.msj</h3>
+    <table class="table table-striped">
+        <thead>
+            <tr class="bg-dark text-white">
+                <th scope="col">Cédula</th>
+                <th scope="col">Nombre</th>
+                <th scope="col">Marca</th>
+                <th scope="col">Modelo</th>
+                <th scope="col">Precio</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>@item.cedula</td>
+                    <td>@item.nombre</td>
+                    <td>@item.marca</td>
+                    <td>@item.modelo</td>
+                    <td>@item.precio</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</main>
+

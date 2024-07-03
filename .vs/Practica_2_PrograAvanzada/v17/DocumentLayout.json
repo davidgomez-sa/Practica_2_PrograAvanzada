@@ -1,0 +1,224 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Universidad\\Practica_2_PrograAvanzada\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B6B5D78C-3CC9-4E20-8535-81F4ED2A90E1}|Practica_2_PrograAvanzada\\Practica_2_PrograAvanzada.csproj|c:\\universidad\\practica_2_prograavanzada\\practica_2_prograavanzada\\models\\homemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6B5D78C-3CC9-4E20-8535-81F4ED2A90E1}|Practica_2_PrograAvanzada\\Practica_2_PrograAvanzada.csproj|solutionrelative:practica_2_prograavanzada\\models\\homemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6B5D78C-3CC9-4E20-8535-81F4ED2A90E1}|Practica_2_PrograAvanzada\\Practica_2_PrograAvanzada.csproj|C:\\Universidad\\Practica_2_PrograAvanzada\\practica_2_prograavanzada\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6B5D78C-3CC9-4E20-8535-81F4ED2A90E1}|Practica_2_PrograAvanzada\\Practica_2_PrograAvanzada.csproj|solutionrelative:practica_2_prograavanzada\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6B5D78C-3CC9-4E20-8535-81F4ED2A90E1}|Practica_2_PrograAvanzada\\Practica_2_PrograAvanzada.csproj|C:\\Universidad\\Practica_2_PrograAvanzada\\practica_2_prograavanzada\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B6B5D78C-3CC9-4E20-8535-81F4ED2A90E1}|Practica_2_PrograAvanzada\\Practica_2_PrograAvanzada.csproj|solutionrelative:practica_2_prograavanzada\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6B5D78C-3CC9-4E20-8535-81F4ED2A90E1}|Practica_2_PrograAvanzada\\Practica_2_PrograAvanzada.csproj|C:\\Universidad\\Practica_2_PrograAvanzada\\practica_2_prograavanzada\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B6B5D78C-3CC9-4E20-8535-81F4ED2A90E1}|Practica_2_PrograAvanzada\\Practica_2_PrograAvanzada.csproj|solutionrelative:practica_2_prograavanzada\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6B5D78C-3CC9-4E20-8535-81F4ED2A90E1}|Practica_2_PrograAvanzada\\Practica_2_PrograAvanzada.csproj|c:\\universidad\\practica_2_prograavanzada\\practica_2_prograavanzada\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6B5D78C-3CC9-4E20-8535-81F4ED2A90E1}|Practica_2_PrograAvanzada\\Practica_2_PrograAvanzada.csproj|solutionrelative:practica_2_prograavanzada\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6B5D78C-3CC9-4E20-8535-81F4ED2A90E1}|Practica_2_PrograAvanzada\\Practica_2_PrograAvanzada.csproj|c:\\universidad\\practica_2_prograavanzada\\practica_2_prograavanzada\\app_start\\filterconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6B5D78C-3CC9-4E20-8535-81F4ED2A90E1}|Practica_2_PrograAvanzada\\Practica_2_PrograAvanzada.csproj|solutionrelative:practica_2_prograavanzada\\app_start\\filterconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6B5D78C-3CC9-4E20-8535-81F4ED2A90E1}|Practica_2_PrograAvanzada\\Practica_2_PrograAvanzada.csproj|c:\\universidad\\practica_2_prograavanzada\\practica_2_prograavanzada\\entities\\vehiculos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6B5D78C-3CC9-4E20-8535-81F4ED2A90E1}|Practica_2_PrograAvanzada\\Practica_2_PrograAvanzada.csproj|solutionrelative:practica_2_prograavanzada\\entities\\vehiculos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6B5D78C-3CC9-4E20-8535-81F4ED2A90E1}|Practica_2_PrograAvanzada\\Practica_2_PrograAvanzada.csproj|c:\\universidad\\practica_2_prograavanzada\\practica_2_prograavanzada\\views\\home\\registrovendedores.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B6B5D78C-3CC9-4E20-8535-81F4ED2A90E1}|Practica_2_PrograAvanzada\\Practica_2_PrograAvanzada.csproj|solutionrelative:practica_2_prograavanzada\\views\\home\\registrovendedores.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6B5D78C-3CC9-4E20-8535-81F4ED2A90E1}|Practica_2_PrograAvanzada\\Practica_2_PrograAvanzada.csproj|C:\\Universidad\\Practica_2_PrograAvanzada\\practica_2_prograavanzada\\views\\home\\consultavehiculos.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B6B5D78C-3CC9-4E20-8535-81F4ED2A90E1}|Practica_2_PrograAvanzada\\Practica_2_PrograAvanzada.csproj|solutionrelative:practica_2_prograavanzada\\views\\home\\consultavehiculos.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6B5D78C-3CC9-4E20-8535-81F4ED2A90E1}|Practica_2_PrograAvanzada\\Practica_2_PrograAvanzada.csproj|C:\\Universidad\\Practica_2_PrograAvanzada\\practica_2_prograavanzada\\views\\home\\registrovehiculos.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B6B5D78C-3CC9-4E20-8535-81F4ED2A90E1}|Practica_2_PrograAvanzada\\Practica_2_PrograAvanzada.csproj|solutionrelative:practica_2_prograavanzada\\views\\home\\registrovehiculos.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6B5D78C-3CC9-4E20-8535-81F4ED2A90E1}|Practica_2_PrograAvanzada\\Practica_2_PrograAvanzada.csproj|c:\\universidad\\practica_2_prograavanzada\\practica_2_prograavanzada\\entities\\vendedores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6B5D78C-3CC9-4E20-8535-81F4ED2A90E1}|Practica_2_PrograAvanzada\\Practica_2_PrograAvanzada.csproj|solutionrelative:practica_2_prograavanzada\\entities\\vendedores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6B5D78C-3CC9-4E20-8535-81F4ED2A90E1}|Practica_2_PrograAvanzada\\Practica_2_PrograAvanzada.csproj|c:\\universidad\\practica_2_prograavanzada\\practica_2_prograavanzada\\app_start\\bundleconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6B5D78C-3CC9-4E20-8535-81F4ED2A90E1}|Practica_2_PrograAvanzada\\Practica_2_PrograAvanzada.csproj|solutionrelative:practica_2_prograavanzada\\app_start\\bundleconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeModel.cs",
+              "DocumentMoniker": "C:\\Universidad\\Practica_2_PrograAvanzada\\Practica_2_PrograAvanzada\\Models\\HomeModel.cs",
+              "RelativeDocumentMoniker": "Practica_2_PrograAvanzada\\Models\\HomeModel.cs",
+              "ToolTip": "C:\\Universidad\\Practica_2_PrograAvanzada\\Practica_2_PrograAvanzada\\Models\\HomeModel.cs",
+              "RelativeToolTip": "Practica_2_PrograAvanzada\\Models\\HomeModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T22:43:33.911Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Vehiculos.cs",
+              "DocumentMoniker": "C:\\Universidad\\Practica_2_PrograAvanzada\\Practica_2_PrograAvanzada\\Entities\\Vehiculos.cs",
+              "RelativeDocumentMoniker": "Practica_2_PrograAvanzada\\Entities\\Vehiculos.cs",
+              "ToolTip": "C:\\Universidad\\Practica_2_PrograAvanzada\\Practica_2_PrograAvanzada\\Entities\\Vehiculos.cs",
+              "RelativeToolTip": "Practica_2_PrograAvanzada\\Entities\\Vehiculos.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T21:06:54.668Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FilterConfig.cs",
+              "DocumentMoniker": "C:\\Universidad\\Practica_2_PrograAvanzada\\Practica_2_PrograAvanzada\\App_Start\\FilterConfig.cs",
+              "RelativeDocumentMoniker": "Practica_2_PrograAvanzada\\App_Start\\FilterConfig.cs",
+              "ToolTip": "C:\\Universidad\\Practica_2_PrograAvanzada\\Practica_2_PrograAvanzada\\App_Start\\FilterConfig.cs",
+              "RelativeToolTip": "Practica_2_PrograAvanzada\\App_Start\\FilterConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T20:37:18.208Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RouteConfig.cs",
+              "DocumentMoniker": "C:\\Universidad\\Practica_2_PrograAvanzada\\Practica_2_PrograAvanzada\\App_Start\\RouteConfig.cs",
+              "RelativeDocumentMoniker": "Practica_2_PrograAvanzada\\App_Start\\RouteConfig.cs",
+              "ToolTip": "C:\\Universidad\\Practica_2_PrograAvanzada\\Practica_2_PrograAvanzada\\App_Start\\RouteConfig.cs",
+              "RelativeToolTip": "Practica_2_PrograAvanzada\\App_Start\\RouteConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T20:37:11.148Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Universidad\\Practica_2_PrograAvanzada\\Practica_2_PrograAvanzada\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Practica_2_PrograAvanzada\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Universidad\\Practica_2_PrograAvanzada\\Practica_2_PrograAvanzada\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Practica_2_PrograAvanzada\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-02T08:55:55.131Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Universidad\\Practica_2_PrograAvanzada\\Practica_2_PrograAvanzada\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Practica_2_PrograAvanzada\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Universidad\\Practica_2_PrograAvanzada\\Practica_2_PrograAvanzada\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Practica_2_PrograAvanzada\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-02T08:42:19.982Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Universidad\\Practica_2_PrograAvanzada\\Practica_2_PrograAvanzada\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Practica_2_PrograAvanzada\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Universidad\\Practica_2_PrograAvanzada\\Practica_2_PrograAvanzada\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Practica_2_PrograAvanzada\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwBcAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T08:37:13.854Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "consultaVehiculos.cshtml",
+              "DocumentMoniker": "C:\\Universidad\\Practica_2_PrograAvanzada\\Practica_2_PrograAvanzada\\Views\\Home\\consultaVehiculos.cshtml",
+              "RelativeDocumentMoniker": "Practica_2_PrograAvanzada\\Views\\Home\\consultaVehiculos.cshtml",
+              "ToolTip": "C:\\Universidad\\Practica_2_PrograAvanzada\\Practica_2_PrograAvanzada\\Views\\Home\\consultaVehiculos.cshtml",
+              "RelativeToolTip": "Practica_2_PrograAvanzada\\Views\\Home\\consultaVehiculos.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-02T08:34:54.335Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "registroVendedores.cshtml",
+              "DocumentMoniker": "C:\\Universidad\\Practica_2_PrograAvanzada\\Practica_2_PrograAvanzada\\Views\\Home\\registroVendedores.cshtml",
+              "RelativeDocumentMoniker": "Practica_2_PrograAvanzada\\Views\\Home\\registroVendedores.cshtml",
+              "ToolTip": "C:\\Universidad\\Practica_2_PrograAvanzada\\Practica_2_PrograAvanzada\\Views\\Home\\registroVendedores.cshtml",
+              "RelativeToolTip": "Practica_2_PrograAvanzada\\Views\\Home\\registroVendedores.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-02T08:33:50.872Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "registroVehiculos.cshtml",
+              "DocumentMoniker": "C:\\Universidad\\Practica_2_PrograAvanzada\\Practica_2_PrograAvanzada\\Views\\Home\\registroVehiculos.cshtml",
+              "RelativeDocumentMoniker": "Practica_2_PrograAvanzada\\Views\\Home\\registroVehiculos.cshtml",
+              "ToolTip": "C:\\Universidad\\Practica_2_PrograAvanzada\\Practica_2_PrograAvanzada\\Views\\Home\\registroVehiculos.cshtml",
+              "RelativeToolTip": "Practica_2_PrograAvanzada\\Views\\Home\\registroVehiculos.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-02T08:32:59.903Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Vendedores.cs",
+              "DocumentMoniker": "C:\\Universidad\\Practica_2_PrograAvanzada\\Practica_2_PrograAvanzada\\Entities\\Vendedores.cs",
+              "RelativeDocumentMoniker": "Practica_2_PrograAvanzada\\Entities\\Vendedores.cs",
+              "ToolTip": "C:\\Universidad\\Practica_2_PrograAvanzada\\Practica_2_PrograAvanzada\\Entities\\Vendedores.cs",
+              "RelativeToolTip": "Practica_2_PrograAvanzada\\Entities\\Vendedores.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T21:06:16.218Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "BundleConfig.cs",
+              "DocumentMoniker": "C:\\Universidad\\Practica_2_PrograAvanzada\\Practica_2_PrograAvanzada\\App_Start\\BundleConfig.cs",
+              "RelativeDocumentMoniker": "Practica_2_PrograAvanzada\\App_Start\\BundleConfig.cs",
+              "ToolTip": "C:\\Universidad\\Practica_2_PrograAvanzada\\Practica_2_PrograAvanzada\\App_Start\\BundleConfig.cs",
+              "RelativeToolTip": "Practica_2_PrograAvanzada\\App_Start\\BundleConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T18:04:49.327Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
